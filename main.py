@@ -1,0 +1,5 @@
+"""
+Fake pythons cript
+"""
+
+print()
